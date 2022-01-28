@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: 0px;
+}
+.titulo1{
+    margin: 0px;
+    text-align: center;
+    color: red;
+    line-height: 10px;
+    font-size: 25px;
+    padding-bottom: 20px;
+    
+
+}  
+
+
+#conten{
+   padding: 100px;
+   width: 50%;
+   height: 1200px;
+   background: rgba(158, 209, 252, 0.932);
+   margin: auto;
+   color: black;
+   text-size-adjust: 10px;
+}
+.main{
+    padding: 70px;
+}
