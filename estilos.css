@@ -1,6 +1,7 @@
 *{
     margin: auto;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .titulo1{
     margin: 0px;
@@ -16,13 +17,15 @@
 
 #conten{
    padding: 100px;
+   margin:auto;
    width: 50%;
    height: 1200px;
-   background: rgba(158, 209, 252, 0.932);
+   background: url(img/prueba.jpg);
    margin: auto;
    color: black;
    text-size-adjust: 10px;
+   position: relative;
 }
 .main{
-    padding: 70px;
+    padding: 100px;
 }
